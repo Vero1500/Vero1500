@@ -21,7 +21,7 @@ Previous experience:
 - Magento 2
 
 Let's connect!
-[LinkedIn](https://www.linkedin.com/in/oana-veronica-mircea-3a8977197/)
+[LinkedIn](https://www.linkedin.com/in/veronica-mircea-3a8977197/)
 
 <!--
 **Vero1500/Vero1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
